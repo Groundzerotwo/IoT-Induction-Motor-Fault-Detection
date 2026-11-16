@@ -1,2 +1,39 @@
 # IoT-Induction-Motor-Fault-Detection
+# IoT-Based Automated Fault Detection System for Induction Motors
+**Project by Misty Porcupine**
+
+A real-time condition monitoring and fault detection simulation for three-phase induction motors built in **MATLAB/Simulink (R2024b)** and integrated with **ThingSpeak** and **Blynk IoT**.
+
+## System Overview
+Industrial induction motors are vulnerable to electrical and mechanical stresses that cause costly downtime if undetected. This system models motor behavior under normal and fault conditions, evaluates fault thresholds in real time, and streams live telemetry to cloud dashboards for remote monitoring.
+
+### Fault Scenarios Covered
+* **`overvoltage fault/`**: Simulates supply overvoltage conditions, tracks stator RMS current, and triggers a fault trip flag (`1`) when thresholds are exceeded.
+* **`mechanical fault/`**: Simulates sudden mechanical load torque (`Tm`) overload conditions, detects abnormal current rise, and triggers the protection trip flag (`1`).
+
+## Architecture & Data Flow
+`Simulink Motor Model` ➔ `Zero-Order Hold & MATLAB Function` ➔ `sendToThingSpeak.m` ➔ **ThingSpeak** (Historical Logging) & **Blynk Cloud** (`V1`: RMS Current, `V2`: Trip Status)
+
+## How to Run Locally
+1. Clone or download this repository and open **MATLAB R2024b** (with Simulink and the ThingSpeak Support Toolbox installed).
+2. Open either `overvoltage fault` or `mechanical fault` as your Current Folder in MATLAB.
+3. Open `sendToThingSpeak.m` and replace `YOUR_THINGSPEAK_WRITE_API_KEY`, `channelID`, and `YOUR_BLYNK_AUTH_TOKEN` with your own credentials.
+4. Open the `.slx` model and click **Run** (`Stop Time = 20`).
+
+## Screenshots
+mechanical fault simulink model
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/96833319-e60d-4a34-8b4f-e2576839a0a1" />
+thingspeak screenshot
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f8dc2315-062d-4bed-a055-eb3503dc0ee8" />
+Blynk app screenshot
+<img width="720" height="1640" alt="Blynk screenshot mechanical fault" src="https://github.com/user-attachments/assets/4bbf9d20-d1b5-48a0-b8b8-9788d6be602b" />
+Overvoltage fault simulink model
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/fd92d635-4e7e-455f-8021-da4b2b8b49c6" />
+thingspeak screenshot
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/614385b0-af24-4628-b2d5-32b05e4ad4e9" />
+Blynk app screenshot
+<img width="720" height="1640" alt="Blynk screenshot Overvoltage fault" src="https://github.com/user-attachments/assets/b1873b5e-2d5d-42b4-bb1c-2fc0687ec5c5" />
+
+
+
 
