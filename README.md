@@ -27,8 +27,10 @@ mechanical fault simulink model
 thingspeak screenshot
 <img width="787" height="251" alt="image" src="https://github.com/user-attachments/assets/c55202b9-5852-4dad-8fa7-e2fee7a72149" />
 <img width="413" height="247" alt="image" src="https://github.com/user-attachments/assets/1867f4e4-9973-41f0-9acf-63b4a4ede9f0" />
+
 Blynk app screenshot
-<img width="720" height="1640" alt="Blynk screenshot mechanical fault" src="https://github.com/user-attachments/assets/4bbf9d20-d1b5-48a0-b8b8-9788d6be602b" />
+<img width="685" height="348" alt="image" src="https://github.com/user-attachments/assets/750d60d0-1791-4d86-88ea-5419f6e1c604" />
+
 #2
 Overvoltage fault simulink model
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/fd92d635-4e7e-455f-8021-da4b2b8b49c6" />
@@ -36,7 +38,8 @@ thingspeak screenshot
 <img width="758" height="242" alt="image" src="https://github.com/user-attachments/assets/b023501c-400d-4bb9-baf4-94cf5ad574b0" />
 <img width="369" height="248" alt="image" src="https://github.com/user-attachments/assets/bdde35bb-f086-4a8b-aace-3d246c744818" />
 Blynk app screenshot
-<img width="720" height="1640" alt="Blynk screenshot Overvoltage fault" src="https://github.com/user-attachments/assets/b1873b5e-2d5d-42b4-bb1c-2fc0687ec5c5" />
+<img width="568" height="348" alt="image" src="https://github.com/user-attachments/assets/b5116e0e-c59f-49a5-996e-7831de1b97f0" />
+
 
 
 
