@@ -21,16 +21,20 @@ Industrial induction motors are vulnerable to electrical and mechanical stresses
 4. Open the `.slx` model and click **Run** (`Stop Time = 20`).
 
 ## Screenshots
+#1.
 mechanical fault simulink model
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/96833319-e60d-4a34-8b4f-e2576839a0a1" />
 thingspeak screenshot
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f8dc2315-062d-4bed-a055-eb3503dc0ee8" />
+<img width="787" height="251" alt="image" src="https://github.com/user-attachments/assets/c55202b9-5852-4dad-8fa7-e2fee7a72149" />
+<img width="413" height="247" alt="image" src="https://github.com/user-attachments/assets/1867f4e4-9973-41f0-9acf-63b4a4ede9f0" />
 Blynk app screenshot
 <img width="720" height="1640" alt="Blynk screenshot mechanical fault" src="https://github.com/user-attachments/assets/4bbf9d20-d1b5-48a0-b8b8-9788d6be602b" />
+#2
 Overvoltage fault simulink model
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/fd92d635-4e7e-455f-8021-da4b2b8b49c6" />
 thingspeak screenshot
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/614385b0-af24-4628-b2d5-32b05e4ad4e9" />
+<img width="758" height="242" alt="image" src="https://github.com/user-attachments/assets/b023501c-400d-4bb9-baf4-94cf5ad574b0" />
+<img width="369" height="248" alt="image" src="https://github.com/user-attachments/assets/bdde35bb-f086-4a8b-aace-3d246c744818" />
 Blynk app screenshot
 <img width="720" height="1640" alt="Blynk screenshot Overvoltage fault" src="https://github.com/user-attachments/assets/b1873b5e-2d5d-42b4-bb1c-2fc0687ec5c5" />
 
