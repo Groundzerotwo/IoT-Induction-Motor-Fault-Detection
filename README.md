@@ -1,6 +1,6 @@
 # IoT-Induction-Motor-Fault-Detection
 # IoT-Based Automated Fault Detection System for Induction Motors
-**Project by Misty Porcupine**
+**Project by Peter Atandi**
 
 A real-time condition monitoring and fault detection simulation for three-phase induction motors built in **MATLAB/Simulink (R2024b)** and integrated with **ThingSpeak** and **Blynk IoT**.
 
@@ -45,7 +45,7 @@ Blynk app screenshot
 <img width="601" height="345" alt="image" src="https://github.com/user-attachments/assets/2c8749b8-7af9-406f-8a4f-735a4046b194" />
 
 
-
+© 2026 Peter Atandi. All rights reserved. Shared for academic and portfolio demonstration only.
 
 
 
