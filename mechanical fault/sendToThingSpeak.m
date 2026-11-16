@@ -28,7 +28,7 @@ function y = sendToThingSpeak(u)
     try
         webread(blynkUrl);
         disp('Blynk update sent successfully!');
-        disp('Project by Misty Porcupine');
+        disp('Project by Peter Atandi');
     catch ME
         disp(['Blynk Error: ', ME.message]);
     end
