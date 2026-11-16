@@ -26,9 +26,8 @@ mechanical fault simulink model
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/96833319-e60d-4a34-8b4f-e2576839a0a1" />
 
 thingspeak screenshot
-<img width="799" height="257" alt="image" src="https://github.com/user-attachments/assets/2c0d2cda-99ec-4079-8ede-bf7ae9956777" />
-<img width="371" height="254" alt="image" src="https://github.com/user-attachments/assets/eee58584-77eb-47c0-91c8-153d9c439bab" />
-
+<img width="381" height="250" alt="image" src="https://github.com/user-attachments/assets/6bbffda8-d86a-47c6-a830-fc9911228d2b" />
+<img width="791" height="250" alt="image" src="https://github.com/user-attachments/assets/824a9f0f-b65e-4470-a51f-56b5260dc886" />
 
 Blynk app screenshot
 <img width="685" height="348" alt="image" src="https://github.com/user-attachments/assets/750d60d0-1791-4d86-88ea-5419f6e1c604" />
