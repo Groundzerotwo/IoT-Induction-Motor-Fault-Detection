@@ -37,8 +37,10 @@ Blynk app screenshot
 
 #2
 Overvoltage fault simulink model
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/fd92d635-4e7e-455f-8021-da4b2b8b49c6" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6bb8cbf1-b2d7-4314-a4fc-d7d8949b5e92" />
 
+overvoltage trip signal scope
+<img width="1902" height="896" alt="overvoltage trip signal scope" src="https://github.com/user-attachments/assets/7d7d91a0-5a37-4132-9e1f-2c4fd2e3ea75" />
 
 thingspeak screenshot
 <img width="814" height="260" alt="image" src="https://github.com/user-attachments/assets/cc5f753b-9308-49d4-8d94-fbbed3653b34" />
